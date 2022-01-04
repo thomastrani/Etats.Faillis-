@@ -6,6 +6,7 @@
   width: 745px;
   font-size: 1.875rem;
   font-weight: 700;
+  text-transform: uppercase;
   margin: 28px auto 0;
 }
 
@@ -70,7 +71,8 @@
 .u-section-2 .u-text-1 {
   font-size: 1.875rem;
   font-weight: 700;
-  width: 395px;
+  text-transform: uppercase;
+  width: 448px;
   margin: 25px auto 0;
 }
 
